@@ -1,4 +1,4 @@
-🚀 **A real-time audio translation that accurately detects code-switching with low-latency**  
+🚀 ## **A real-time audio translation that accurately detects code-switching with low-latency**  
  
 ✅ **Capstone 1:** Data Analysis of speech-to-text accuracy  
 ✅ **Capstone 2:** Machine Learning (Real-Time Speech-to-Text AI)  
