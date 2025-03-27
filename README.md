@@ -2,7 +2,7 @@
  
 ✅ **Capstone 1:** Data Analysis of speech-to-text accuracy  
 ✅ **Capstone 2:** Machine Learning (Real-Time Speech-to-Text AI)  
-✅ **Capstone 3:** Deep Learning & Generative AI (Context-Aware Captioning)  
+✅ **Capstone 3:** Deep Learning & Generative AI (Context-Aware translation)  
 
 ## 📊 Capstone 1: Data Analytics  
 🔍 **Current focus:**  
