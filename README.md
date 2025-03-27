@@ -1,4 +1,3 @@
-# 🎤 Real-Time Multilingual Transcription  
 🚀 **A real-time audio translation that accurately detects code-switching with low-latency**  
  
 ✅ **Capstone 1:** Data Analysis of speech-to-text accuracy  
